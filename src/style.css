@@ -1,6 +1,16 @@
-body {
-  background: rgb(237, 230, 230);
+.body {
+  background: #e1d39a;
 }
-p {
-  width: 500px;
+h1 {
+  text-align: center;
+}
+.croissant {
+  width: 100px;
+}
+a {
+  margin: 20px;
+}
+.images {
+  display: block;
+  margin: 0 auto;
 }
